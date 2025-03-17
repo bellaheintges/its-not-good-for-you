@@ -1,5 +1,6 @@
 # It's Not Good #ForYou
-Isabella Heintges, B.S. in Electrical Engineering
+#### Isabella Heintges, B.S. in Electrical Engineering
+#### Spring 2025, University of Virginia
 
 ## TikTok Algorithm Analysis: Social Media & Diet Culture
 This repository contains all code used to analyze trends present in the data collected for my research on how TikTok's recommendation algorithm influences youth media consumption.
